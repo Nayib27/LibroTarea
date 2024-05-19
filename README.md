@@ -38,3 +38,12 @@ Ejecución del Web API
 
 
 Prueba en postman
+
+
+![image](https://github.com/Nayib27/LibroTarea/assets/121632251/2fc8e786-b065-4ae3-a70b-911c3c1b1acb)
+
+
+![image](https://github.com/Nayib27/LibroTarea/assets/121632251/78e3ba42-2b88-4ea8-9c98-76fe4bcf2987)
+
+
+![image](https://github.com/Nayib27/LibroTarea/assets/121632251/5520ed2b-4f59-49f9-b8d1-4f0725417e24)
